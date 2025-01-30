@@ -30,4 +30,14 @@ Atividades: <br>
 - Aprender conceitos de responsividade; <br>
 - Criar o menu superior. <br>
 
+# 30/01/2025 - 4° Dia de imersão
+Nesta aula, utilizamos o CSS Grid no projeto pela primeira vez, para os cards da página inicial, aprendendo as medias queries, além de iniciar o uso do JavaScript, com o conceito DOM e o método promises. <br> <br>
 
+Atividades: <br>
+- Criar os cards da página inicial; <br>
+- Aprender a usar o CSS Grid Layout; <br>
+- Utilizar media queries para responsividade; <br>
+- Instalar do Node.js; <br>
+- Introduzir o JavaScript no projeto; <br>
+- Utilizar o conceito DOM; <br>
+- Conhecer o método Promises do JavaScript. <br>
