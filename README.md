@@ -46,6 +46,6 @@ Atividades: <br>
 Nesta última aula, utilizamos frameworks de JavaScript React no projeto, para criarmos o componente Header! <br> <br>
 
 Atividades: <br>
-- Introdução a um projeto React; <br> <br>
-- Usar framework React; <br> <br>
+- Introdução a um projeto React; <br>
+- Usar framework React; <br>
 - Criar o componente <Header>.
