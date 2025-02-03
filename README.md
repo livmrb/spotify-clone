@@ -41,3 +41,11 @@ Atividades: <br>
 - Introduzir o JavaScript no projeto; <br>
 - Utilizar o conceito DOM; <br>
 - Conhecer o método Promises do JavaScript. <br>
+
+# 31/01/2025 - 5° Dia de imersão
+Nesta última aula, utilizamos frameworks de JavaScript React no projeto, para criarmos o componente Header! <br> <br>
+
+Atividades: <br>
+- Introdução a um projeto React; <br> <br>
+- Usar framework React; <br> <br>
+- Criar o componente <Header>.
